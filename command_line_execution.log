@@ -1,0 +1,10 @@
+Total number of errors: 8
+These are the errors:
+files_query/2021-08-18T18:00:00+00:00/3.log: [2021-08-19 18:10:30,456] {{taskinstance.py:1128}} ERROR - '>' not supported between instances of 'NoneType' and 'NoneType'
+files_query/2021-08-18T18:00:00+00:00/2.log: [2021-08-19 18:05:26,124] {{taskinstance.py:1128}} ERROR - '>' not supported between instances of 'NoneType' and 'NoneType'
+files_query/2021-08-18T18:00:00+00:00/1.log: [2021-08-19 18:00:21,693] {{taskinstance.py:1128}} ERROR - '>' not supported between instances of 'NoneType' and 'NoneType'
+files_query/2021-08-19T18:00:00+00:00/3.log: [2021-08-20 18:10:33,632] {{taskinstance.py:1128}} ERROR - '>' not supported between instances of 'NoneType' and 'NoneType'
+files_query/2021-08-19T18:00:00+00:00/2.log: [2021-08-20 18:05:29,331] {{taskinstance.py:1128}} ERROR - '>' not supported between instances of 'NoneType' and 'NoneType'
+files_query/2021-08-19T18:00:00+00:00/1.log: [2021-08-20 18:00:25,247] {{taskinstance.py:1128}} ERROR - '>' not supported between instances of 'NoneType' and 'NoneType'
+upload_results_S3/2021-08-15T20:44:23.401351+00:00/1.log: [2021-08-15 20:44:50,690] {{taskinstance.py:1128}} ERROR - The key 21.7_Airflow_DAG/2021-08-14/results.csv already exists.
+upload_results_S3/2021-08-15T20:39:53.617754+00:00/1.log: [2021-08-15 20:40:19,032] {{taskinstance.py:1128}} ERROR - Unable to locate credentials
